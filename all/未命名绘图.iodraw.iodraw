@@ -16,7 +16,7 @@
         <mxCell id="PFS9APvhHd3rJG7KlafA-12" value="while i ≤ n−1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="470" y="220" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PFS9APvhHd3rJG7KlafA-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PFS9APvhHd3rJG7KlafA-13" value="j ← 0&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="250" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PFS9APvhHd3rJG7KlafA-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
