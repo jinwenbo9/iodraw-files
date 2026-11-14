@@ -27,7 +27,7 @@
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t_XIttyLiGACE5gmrp82-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="1000" as="targetPoint" />
+            <mxPoint x="570" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
