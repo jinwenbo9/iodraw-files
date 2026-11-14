@@ -50,19 +50,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t_XIttyLiGACE5gmrp82-12" target="t_XIttyLiGACE5gmrp82-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t_XIttyLiGACE5gmrp82-13" target="t_XIttyLiGACE5gmrp82-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-13" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="1109" width="120" height="60" as="geometry" />
