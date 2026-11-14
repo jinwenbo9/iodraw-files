@@ -148,7 +148,7 @@
         <mxCell id="KVtV9t-zQPBcHXH6tr11-59" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;第 4 趟&lt;/font&gt;&lt;div&gt;i=4, j=0…1&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="520" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KVtV9t-zQPBcHXH6tr11-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;初始序列&lt;br&gt;&lt;/font&gt;未排序区间 A[0..5]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KVtV9t-zQPBcHXH6tr11-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;第 5 趟&amp;nbsp;&lt;/font&gt;&lt;div&gt;i=5, j=0…0&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="585" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
