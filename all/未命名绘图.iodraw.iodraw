@@ -34,7 +34,7 @@
         <mxCell id="PFS9APvhHd3rJG7KlafA-18" value="j ← j+1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="410" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PFS9APvhHd3rJG7KlafA-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PFS9APvhHd3rJG7KlafA-19" value="i ← i+1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="440" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PFS9APvhHd3rJG7KlafA-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
