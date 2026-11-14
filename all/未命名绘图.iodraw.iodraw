@@ -10,11 +10,16 @@
         <mxCell id="PFS9APvhHd3rJG7KlafA-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="370" y="100" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="PFS9APvhHd3rJG7KlafA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PFS9APvhHd3rJG7KlafA-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PFS9APvhHd3rJG7KlafA-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="370" y="180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PFS9APvhHd3rJG7KlafA-7" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="355" y="98" width="30" height="30" as="geometry" />
+          <mxGeometry x="340" y="98" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
