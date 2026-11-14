@@ -25,9 +25,9 @@
         <mxCell id="t_XIttyLiGACE5gmrp82-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="t_XIttyLiGACE5gmrp82-7" target="t_XIttyLiGACE5gmrp82-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t_XIttyLiGACE5gmrp82-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="t_XIttyLiGACE5gmrp82-7" edge="1">
+        <mxCell id="t_XIttyLiGACE5gmrp82-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="t_XIttyLiGACE5gmrp82-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="950" as="targetPoint" />
+            <mxPoint x="590" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;i&amp;lt;n-1?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
