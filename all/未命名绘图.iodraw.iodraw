@@ -155,10 +155,10 @@
           <mxGeometry x="840" y="267.5" width="180" height="25" as="geometry" />
         </mxCell>
         <mxCell id="KVtV9t-zQPBcHXH6tr11-62" value="两两比较，较大者后移" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="850" y="277.5" width="180" height="25" as="geometry" />
+          <mxGeometry x="860" y="560" width="180" height="25" as="geometry" />
         </mxCell>
         <mxCell id="KVtV9t-zQPBcHXH6tr11-63" value="两两比较，较大者后移" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="860" y="287.5" width="180" height="25" as="geometry" />
+          <mxGeometry x="850" y="462.5" width="180" height="25" as="geometry" />
         </mxCell>
         <mxCell id="KVtV9t-zQPBcHXH6tr11-64" value="两两比较，较大者后移" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="405" width="180" height="25" as="geometry" />
