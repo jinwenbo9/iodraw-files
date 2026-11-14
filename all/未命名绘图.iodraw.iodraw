@@ -65,7 +65,7 @@
         </mxCell>
         <mxCell id="4wKe5S0OBQeOC_5CeZg_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t_XIttyLiGACE5gmrp82-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="500" as="targetPoint" />
+            <mxPoint x="30" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;i&amp;lt;i+1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
