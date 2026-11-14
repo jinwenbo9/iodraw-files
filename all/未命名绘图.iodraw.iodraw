@@ -58,6 +58,9 @@
         <mxCell id="t_XIttyLiGACE5gmrp82-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="970" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="t_XIttyLiGACE5gmrp82-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t_XIttyLiGACE5gmrp82-13" target="t_XIttyLiGACE5gmrp82-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-13" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
