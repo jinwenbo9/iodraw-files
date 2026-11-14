@@ -27,7 +27,7 @@
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t_XIttyLiGACE5gmrp82-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="980" as="targetPoint" />
+            <mxPoint x="590" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -71,12 +71,6 @@
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="1070" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="t_XIttyLiGACE5gmrp82-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="710" as="sourcePoint" />
-            <mxPoint x="410" y="660" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
