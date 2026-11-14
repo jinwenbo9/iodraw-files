@@ -68,7 +68,7 @@
             <mxPoint x="30" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t_XIttyLiGACE5gmrp82-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;i&amp;lt;i+1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="t_XIttyLiGACE5gmrp82-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;i←i+1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="t_XIttyLiGACE5gmrp82-13" target="t_XIttyLiGACE5gmrp82-14" edge="1">
