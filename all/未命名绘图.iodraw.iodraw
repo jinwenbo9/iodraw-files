@@ -14,25 +14,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-3" value="输入A，n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t_XIttyLiGACE5gmrp82-5" target="t_XIttyLiGACE5gmrp82-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t_XIttyLiGACE5gmrp82-7" target="t_XIttyLiGACE5gmrp82-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="320" width="135" height="80" as="geometry" />
+          <mxGeometry x="342.5" y="280" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t_XIttyLiGACE5gmrp82-8" target="t_XIttyLiGACE5gmrp82-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t_XIttyLiGACE5gmrp82-9" target="t_XIttyLiGACE5gmrp82-10">
           <mxGeometry relative="1" as="geometry" />
