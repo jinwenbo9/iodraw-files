@@ -160,7 +160,7 @@
         <mxCell id="KVtV9t-zQPBcHXH6tr11-63" value="两两比较，较大者后移" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="462.5" width="180" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="KVtV9t-zQPBcHXH6tr11-64" value="两两比较，较大者后移" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KVtV9t-zQPBcHXH6tr11-64" value="比较4次，交换2次" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="405" width="180" height="25" as="geometry" />
         </mxCell>
         <mxCell id="KVtV9t-zQPBcHXH6tr11-65" value="比较5次，交换3次" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
