@@ -141,7 +141,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t_XIttyLiGACE5gmrp82-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;swap(A[j],A[j+1])&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="710" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
