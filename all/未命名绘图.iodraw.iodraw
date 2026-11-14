@@ -112,7 +112,7 @@
         <mxCell id="KVtV9t-zQPBcHXH6tr11-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;8&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="648" y="585" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KVtV9t-zQPBcHXH6tr11-45" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KVtV9t-zQPBcHXH6tr11-45" value="⇄" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
