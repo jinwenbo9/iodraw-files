@@ -58,8 +58,11 @@
         <mxCell id="PFS9APvhHd3rJG7KlafA-31" value="4.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="260" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="PFS9APvhHd3rJG7KlafA-32" value="2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="180" width="20" height="10" as="geometry" />
+        <mxCell id="PFS9APvhHd3rJG7KlafA-32" value="4.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="PFS9APvhHd3rJG7KlafA-33" value="2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="190" width="20" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
