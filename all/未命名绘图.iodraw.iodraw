@@ -67,9 +67,9 @@
         <mxCell id="t_XIttyLiGACE5gmrp82-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="t_XIttyLiGACE5gmrp82-12" target="t_XIttyLiGACE5gmrp82-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4wKe5S0OBQeOC_5CeZg_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t_XIttyLiGACE5gmrp82-12">
+        <mxCell id="4wKe5S0OBQeOC_5CeZg_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=sharp;" edge="1" parent="1" source="t_XIttyLiGACE5gmrp82-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="30" y="430" as="targetPoint" />
+            <mxPoint x="30" y="310" as="targetPoint" />
             <Array as="points">
               <mxPoint x="31" y="830" />
               <mxPoint x="31" y="500" />
