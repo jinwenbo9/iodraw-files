@@ -86,15 +86,6 @@
         <mxCell id="t_XIttyLiGACE5gmrp82-30" value="swap(A[j],A[j+1])" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4wKe5S0OBQeOC_5CeZg_-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="t_XIttyLiGACE5gmrp82-12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="570" as="sourcePoint" />
-            <mxPoint x="50" y="410" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="130" y="810" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
